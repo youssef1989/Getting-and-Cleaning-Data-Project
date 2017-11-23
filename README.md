@@ -5,6 +5,10 @@ This repo contains my solution to the Getting and Cleaning Data Peer Assessment 
 
 Simply execute "run_analysis.R"
 
+The Data should be downloaded from the following Url and unzipped
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The Data should be available in the following path
 E:\Documents\Getting and Cleaning Data\Unit 4\Project\UCI HAR Dataset
 
